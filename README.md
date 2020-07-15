@@ -28,5 +28,30 @@ I actively play on perfect blue. You can refer to [this](https://ctftime.org/tea
  * nullcon HackIM 2020: 1st🏆place
  * ASIS CTF Finals 2019: 1st🏆place
  
+## `get Education >>= putStrLn`
+
+MS in Computer Science: University of Texas At Dallas (expected December 2021), GPA: 4.0
+
+BS in Computer Science: University of Texas At Dallas (graduated May 2020), GPA: 3.968
+
+### Course work
+#### Graduate
+ * Database Design
+ * Advanced Programming Languages
+ * Information Security
+
+#### Undergraduate
+ * Compiler Design
+ * Automata Theory
+ * Advanced Algorithms
+ * Operating System
+ * Computer Networks
+ * C/C++ in Unix Environment
+ * Data structures
+ * Computer Architecture
+ * Discrete Mathematics I, II
+ 
+
+ 
 ## `get Contact >>= putStrLn`
 Please feel free to contact me via twitter DMs or email. I am currently searching for a job/internship!
