@@ -17,7 +17,7 @@ Currently I am mostly interested in either cyber security (specifically binary a
 
 ## `get Awards >>= putStrLn`
 
-I actively play on perfect blue. You can refer to [this](https://ctftime.org/team/53802) page for more information. Here is a list of notable victories under this team:
+I actively play on perfect blue. You can refer to [this](https://ctftime.org/team/53802) page for more information. We are currently 1st place on CTFTime (as of July 2020) globally! Here is a list of notable victories under this team:
 
  * ASIS 2020 Quals: 1st🏆place
  * 0CTF/TCTF 2020 Quals: 3rd place
