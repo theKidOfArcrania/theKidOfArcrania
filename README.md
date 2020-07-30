@@ -3,10 +3,10 @@ I am Henry Wang (aka theKidOfArcrania). Here you will find some of my public pro
 
 Currently I am mostly interested in either cyber security (specifically binary analysis/exploitation), and also formal verification (though I am still learning it)
 
-## `get Languages >>= putStrLn`
+## `get Interests >>= putStrLn`
  * **Interests**: Reverse engineering (I reverse Haskell for fun), malware analysis, formal verification
- * **Likes**: Haskell, Ocaml, Assembly
- * **Dislikes**: Javascript, Java
+ * **Liked languages**: Haskell, Ocaml, Assembly
+ * **Disliked langauges**: Javascript, Java
  * **What I use the most <3**: Linux, vim, gdb (with GEF, ofc), IDA, Ghidra, Docker, i3wm, git
 
 ## `get Skills >>= putStrLn`
