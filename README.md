@@ -13,7 +13,7 @@ Currently I am mostly interested in either cyber security (specifically binary a
  * **Reversed compiled code from these languages**: Haskell, C, C++, Rust, Java, x86, MIPS, Prolog, Web assembly
  * **Written 5000+ lines**: C, Java, Python, Typescript, Javascript
  * **Written 1000-5000 lines**: Ocaml, Haskell, C++, LaTeX
- * **Familiar with (more than hello world)**: x86, Bash, Makefile, SQL, Prolog, PHP, MIPS, Powershell
+ * **Familiar with (more than hello world)**: x86, Bash, Makefile, SQL, Prolog, PHP, MIPS, Powershell, perl
 
 ## `get Awards >>= putStrLn`
 
