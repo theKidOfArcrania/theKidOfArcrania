@@ -11,14 +11,17 @@ Currently I am mostly interested in either cyber security (specifically binary a
 
 ## `get Skills >>= putStrLn`
  * **Reversed compiled code from these languages**: Haskell, C, C++, Rust, Java, x86, MIPS, Prolog, Web assembly
- * **Written 5000+ lines**: C, Java, Python, Typescript, Javascript
- * **Written 1000-5000 lines**: Ocaml, Haskell, C++, LaTeX
+ * **Written 5000+ lines**: C, Java, Python, Haskell, Typescript, Javascript
+ * **Written 1000-5000 lines**: Ocaml, C++, LaTeX
  * **Familiar with (more than hello world)**: x86, Bash, Makefile, SQL, Prolog, PHP, MIPS, Powershell, perl
 
 ## `get Awards >>= putStrLn`
 
-I actively play on perfect blue. You can refer to [this](https://ctftime.org/team/53802) page for more information. We are currently 2nd place on CTFTime (as of October 2020) globally! Here is a list of notable victories under this team:
+I actively play on perfect blue. You can refer to [this](https://ctftime.org/team/53802) page for more information. We won globally 1st place on CTFTime for the 2020 cycle! Here is a list of notable victories under this team:
 
+ * ASIS 2020 Finals: 1st🏆place
+ * HITCON 2020: 1st🏆place (and pre-qualify for defcon 2021!)
+ * Dragon CTF 2020: 1st🏆place
  * ASIS 2020 Quals: 1st🏆place
  * 0CTF/TCTF 2020 Quals: 3rd place
  * Pwn2Win CTF 2020: 1st🏆place
@@ -31,11 +34,13 @@ I actively play on perfect blue. You can refer to [this](https://ctftime.org/tea
 ## `get Education >>= putStrLn`
 
 MS in Computer Science: University of Texas At Dallas (expected December 2021), GPA: 4.0
+  * TA/mentor for Cyber Attack and Defense Lab (2021 Spring)
 
 BS in Computer Science: University of Texas At Dallas (graduated May 2020), GPA: 3.968
 
 ### Course work
 #### Graduate
+ * Malicious and Systems Analysis
  * Database Design
  * Advanced Programming Languages
  * Information Security
